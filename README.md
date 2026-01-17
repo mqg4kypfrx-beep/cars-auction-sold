@@ -32,9 +32,9 @@ The website cars-auction-sold provides you with the original price of a vehicle 
 </section>
 
 <section class="gallery">
-  <img src="images/car1.jpg">
-  <img src="images/car2.jpg">
-  <img src="images/car3.jpg">
+  <img src="https://cdn.pixabay.com/photo/2017/03/27/14/56/car-2179220_1280.jpg">
+  <img src="https://cdn.pixabay.com/photo/2016/11/29/09/32/auto-1868726_1280.jpg">
+  <img src="https://cdn.pixabay.com/photo/2016/02/19/10/00/car-1209918_1280.jpg">
 </section>
 
 <section class="contact">
